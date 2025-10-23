@@ -1,0 +1,1 @@
+print ("hola mundo") mi nombre es edison, estoy aprendiendo pytgon y me gustaria mejorar mi practica
